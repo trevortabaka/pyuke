@@ -1,4 +1,4 @@
-pyuke
+pyUke
 =====
 _pronounced "puke"_
 
